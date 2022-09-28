@@ -5,8 +5,6 @@ tags: [getting_started]
 sidebar: mydoc_sidebar
 ---
 
-
-
 # Hello World
 
 {% include links.html %}

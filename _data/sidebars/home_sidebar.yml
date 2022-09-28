@@ -4,7 +4,6 @@ entries:
 - title: Sidebar
   levels: one
   folders:
-
   - title: Products
     output: web
     folderitems:
@@ -21,4 +20,4 @@ entries:
       url: /p2_landing_page.html
       output: web
 
-# Copyright 2021 Google LLC
+

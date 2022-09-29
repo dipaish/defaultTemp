@@ -6,20 +6,11 @@ output: web
 topnav_title: Course Name
 # this appears on the top navigation bar next to the home button
 
-# site_title: Course title
+site_title: Course title
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Deepak KC
 # this appears in the footer
-
-# github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
-# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
-
-# google_analytics: UA-66296557-1
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
@@ -33,7 +24,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Course Name Feedback
 
 feedback_email: deepak.curator@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar

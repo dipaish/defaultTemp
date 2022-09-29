@@ -1,4 +1,4 @@
-### What is a database? 
+## What is a test? 
 
 - An ***organized  collection*** of related data (structured information) 
     -  Stored in **logical and structured** manner
